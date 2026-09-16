@@ -1,0 +1,5 @@
+{
+  "chars": "abcdefghijklmnopqrstuvwxyz0123456789-._~:/?#[]@!$&'()*+,;=%",
+  "vocab_size": 61,
+  "max_len": 200
+}

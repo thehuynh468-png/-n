@@ -1,0 +1,35 @@
+# Xử lý dữ liệu
+pandas
+numpy
+# Học máy 
+scikit-learn      
+xgboost
+imbalanced-learn
+scipy
+joblib
+# Học sâu
+tensorflow
+keras
+# API Backend
+fastapi
+uvicorn
+python-multipart
+pydantic
+starlette
+# Giao diện
+streamlit
+altair
+plotly
+pillow
+# Trích xuất đặc trưng
+python-whois
+tldextract
+beautifulsoup4
+lxml
+requests
+
+# ── Utilities ────────────────────────────────────────────────
+tqdm==4.67.3
+rich==15.0.0
+colorama==0.4.6
+python-dateutil==2.9.0.post0
